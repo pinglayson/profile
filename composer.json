@@ -1,0 +1,11 @@
+{
+    "name": "pinglayson/profile",
+    "description": "Laravel package for user accounts",
+    "authors": [
+        {
+            "name": "Ping Layson",
+            "email": "ping.layson@gtdollar.com"
+        }
+    ],
+    "require": {}
+}
