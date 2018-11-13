@@ -7,5 +7,10 @@
             "email": "ping.layson@gtdollar.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pinglayson\\Profile\\":"packages/pinglayson/profile/src"
+        }
+    }
 }
