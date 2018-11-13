@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Pinglayson\\Profile\\":"packages/pinglayson/profile/src"
+            "Pinglayson\\Profile\\":"src"
         }
     }
 }
